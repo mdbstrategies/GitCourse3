@@ -7,3 +7,5 @@ Further changes from the online repository for the remote environment to follow 
 we created the new branch test for test our git skills
 
 new line
+
+more changes
